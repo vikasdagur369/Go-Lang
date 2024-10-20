@@ -23,4 +23,8 @@ func main() {
 		fmt.Println(j)
 	}
 
+	// isme i ki value se start hokr range-1 tak chalega
+	for i := range 8 {
+		fmt.Println(i)
+	}
 }
